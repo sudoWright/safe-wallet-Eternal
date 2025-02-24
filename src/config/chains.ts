@@ -29,6 +29,7 @@ const ChainLogos = {
   [chains.celo]: '/images/networks/celo.svg',
   [chains.arb1]: '/images/networks/arb.svg',
   [chains.avax]: '/images/networks/avax.svg',
+  [chains.sonic]: '/images/networks/sonic.svg',
   [chains.sep]: '/images/networks/sep.png',
 }
 
